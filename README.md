@@ -1,2 +1,5 @@
 # K52L1
 Hello git!
+
+VER 1.0
+FIRST FOR EVERYTHING

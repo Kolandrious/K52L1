@@ -1,0 +1,51 @@
+Message: Playing Song3, Genre Rock
+Message: Playing Song2, Genre Pop
+Message: Playing Song1, Genre Classic
+Message: Playing Michele McLaughlin - The North Sea.mp3, Genre Classic
+Message: Playing Masaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing Ludovico Einaudi - Life.mp3, Genre Classic
+Message: Playing Michele McLaughlin - The North Sea.mp3, Genre Classic
+Message: Playing Masaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing Ludovico Einaudi - Life.mp3, Genre Classic
+Message: Playing NLudovico Einaudi - Life.mp3, Genre Classic
+Message: Playing Michele McLaughlin - The North Sea.mp3, Genre Classic
+Message: Playing Masaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NLudovico Einaudi - Life.mp3, Genre Classic
+Message: Playing Michele McLaughlin - The North Sea.mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing bugsbunny1.wav, Genre Classic
+Message: Playing bugsbunny1.wav, Genre Classic
+Message: Playing bugsbunny1.wav, Genre Classic
+Message: Playing bugsbunny1.wav, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NLudovico Einaudi - Life.mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NLudovico Einaudi - Life.mp3, Genre Classic
+Message: Playing Michele McLaughlin - The North Sea.mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing NMasaru Yokoyama - Spring's Melody (Shigatsu wa Kimi no Uso).mp3, Genre Classic
+Message: Playing ZJZohn cena - it's my time.mp3, Genre Classic
